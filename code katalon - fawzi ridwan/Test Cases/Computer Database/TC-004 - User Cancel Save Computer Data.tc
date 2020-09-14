@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Cancel Save Computer Data</description>
+   <name>TC-004 - User Cancel Save Computer Data</name>
+   <tag>cancel-save-button-add-computer</tag>
+   <comment></comment>
+   <testCaseGuid>1de4e760-88a2-4efc-83a6-ce68bbda49b9</testCaseGuid>
+</TestCaseEntity>

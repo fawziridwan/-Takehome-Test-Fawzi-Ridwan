@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit Computer Information Data</description>
+   <name>TC-010 - Edit Computer</name>
+   <tag>edit-computer</tag>
+   <comment></comment>
+   <testCaseGuid>bfcc0eae-a80b-44ec-870f-4186b853203b</testCaseGuid>
+</TestCaseEntity>

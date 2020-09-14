@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Field Discontinued date are allowed to input symbols</description>
+   <name>TC-008 - Field Discontinued date are allowed to input symbols</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fab2a9c5-6bfb-4ae7-a398-e062031033b6</testCaseGuid>
+</TestCaseEntity>

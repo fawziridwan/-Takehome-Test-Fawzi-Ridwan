@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a computer information to database</description>
+   <name>TC-001 - Add Computer</name>
+   <tag>add-computer</tag>
+   <comment></comment>
+   <testCaseGuid>6c995b3b-d978-46a8-9694-95f078c7e49f</testCaseGuid>
+</TestCaseEntity>

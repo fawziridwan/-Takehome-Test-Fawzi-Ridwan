@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Field Introduced date not allowed to input alpha character</description>
+   <name>TC-005 - Field Introduced date not allowed to input alpha character</name>
+   <tag>user-input-field-introduced-date-format-not-allow-alpha-character</tag>
+   <comment></comment>
+   <testCaseGuid>9225e5e3-2831-4489-a865-89b16497c48e</testCaseGuid>
+</TestCaseEntity>

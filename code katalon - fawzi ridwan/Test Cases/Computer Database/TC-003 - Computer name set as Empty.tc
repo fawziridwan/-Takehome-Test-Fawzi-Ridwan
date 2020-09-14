@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Field Computer name set as Empty</description>
+   <name>TC-003 - Computer name set as Empty</name>
+   <tag>computer-name-empty</tag>
+   <comment></comment>
+   <testCaseGuid>2c8e6af8-c842-4c89-a1f2-604608aebd47</testCaseGuid>
+</TestCaseEntity>

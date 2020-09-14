@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Read this Computer Information on the Tables</description>
+   <name>TC-009 - Read Computer</name>
+   <tag>read-list-computer-database</tag>
+   <comment></comment>
+   <testCaseGuid>4f998fc4-da01-4416-b180-b2c689a54e55</testCaseGuid>
+</TestCaseEntity>
